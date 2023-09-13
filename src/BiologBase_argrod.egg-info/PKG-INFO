@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: BiologBase-argrod
+Version: 0.0.1
+Summary: Tool for generating useful values from biologging data
+Author-email: Aran Garrod <aran.garrod@gmail.com>
+Project-URL: Homepage, https://github.com/argrod/BiologgingBase
+Project-URL: Bug Tracker, https://github.com/argrod/BiologgingBase/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Biologging Base
+
+A collection of useful tools for importing biologging data from AxyTrek and NinjaScan tags (to be expanded). These functions are designed for use by the [Biologging intelligent Platform](https://www.bip-earth.com/).
+
+<img src="https://www.bip-earth.com/bip_logo_top.png"
+    alt="BiP"
+    style="float: right; margin-left: 10px;" />
+
+This package includes a number of functions to both read in data and format it, as well as performing some base analyses to extract useful metrics from acceleration and GPS data.
+
+Updates and suggestions are welcome, please [contact](mailto:aran.garrod@gmail.com) with any desired updates/changes.

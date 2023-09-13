@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/BiologBase/__init__.py
+src/BiologBase/biologgingBase.py
+src/BiologBase/lesserCalculation.py
+src/BiologBase_argrod.egg-info/PKG-INFO
+src/BiologBase_argrod.egg-info/SOURCES.txt
+src/BiologBase_argrod.egg-info/dependency_links.txt
+src/BiologBase_argrod.egg-info/top_level.txt
+tests/test_dtFormat.py
