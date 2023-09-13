@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=45", "setuptools_scm[toml]>=6.2"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools_scm]
+
+[project]
+name = "BiologBase_argrod"
+version = "0.0.1"
+authors = [
+  { name="Aran Garrod", email="aran.garrod@gmail.com" },
+]
+description = "Tool for generating useful values from biologging data"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/argrod/BiologgingBase"
+"Bug Tracker" = "https://github.com/argrod/BiologgingBase/issues"
